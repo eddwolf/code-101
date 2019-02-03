@@ -1,0 +1,28 @@
+body {
+    background-color: maroon;
+    color: yellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    color: white;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+}
+
+/* img {
+    border-radius: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
